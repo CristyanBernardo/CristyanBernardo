@@ -34,7 +34,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por Tecnologi
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CristyanBernardo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=pt-br&hide_border=false&order=1" height="115" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristyanBernardo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="85" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CristyanBernardo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false&order=2" height="115" alt="languages graph"  />
 </div>
 
 ###
