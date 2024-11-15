@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por Tecnologi
 
 ###
 
-- 🌱 Atualmente aprendendo C++.
+- 🌱 Atualmente aprendendo HTML, CSS, JS, JQUERY, PHP, MySQL.
 - 📫 Como entrar em contato: [E-mail](cristyanbernardo@hotmail.com) ou [LinkedIn](https://www.linkedin.com/in/cristyan-bernardo-03a1b219b/)
 
 ## 🔭 Projetos Recentes
